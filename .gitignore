@@ -1,0 +1,11 @@
+.DS_Store
+.scadsai_api_key
+Src/.DS_Store
+*.index
+*.faiss
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
