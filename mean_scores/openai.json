@@ -1,0 +1,164 @@
+[
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:1.7b_rag_top_k_10.json",
+        "score": {
+            "factual": 3.64,
+            "language": 3.92,
+            "structure": 3.8
+        },
+        "std": {
+            "factual": 1.2,
+            "language": 0.69,
+            "structure": 0.69
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 4.0,
+            "structure": 4.0
+        }
+    },
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:0.6b_rag_top_k_15.json",
+        "score": {
+            "factual": 1.56,
+            "language": 2.2,
+            "structure": 1.88
+        },
+        "std": {
+            "factual": 1.02,
+            "language": 0.63,
+            "structure": 0.65
+        },
+        "median": {
+            "factual": 1.0,
+            "language": 2.0,
+            "structure": 2.0
+        }
+    },
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:8b_rag_top_k_10.json",
+        "score": {
+            "factual": 4.16,
+            "language": 4.6,
+            "structure": 4.24
+        },
+        "std": {
+            "factual": 0.97,
+            "language": 0.57,
+            "structure": 1.11
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 5.0,
+            "structure": 5.0
+        }
+    },
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:8b_rag_top_k_15.json",
+        "score": {
+            "factual": 3.44,
+            "language": 4.24,
+            "structure": 3.68
+        },
+        "std": {
+            "factual": 1.36,
+            "language": 0.71,
+            "structure": 1.46
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 4.0,
+            "structure": 4.0
+        }
+    },
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:0.6b_rag_top_k_5.json",
+        "score": {
+            "factual": 2.24,
+            "language": 2.28,
+            "structure": 2.12
+        },
+        "std": {
+            "factual": 1.21,
+            "language": 0.87,
+            "structure": 0.82
+        },
+        "median": {
+            "factual": 2.0,
+            "language": 2.0,
+            "structure": 2.0
+        }
+    },
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:1.7b_rag_top_k_15.json",
+        "score": {
+            "factual": 2.28,
+            "language": 3.44,
+            "structure": 2.96
+        },
+        "std": {
+            "factual": 1.51,
+            "language": 0.98,
+            "structure": 1.25
+        },
+        "median": {
+            "factual": 2.0,
+            "language": 4.0,
+            "structure": 3.0
+        }
+    },
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:1.7b_rag_top_k_5.json",
+        "score": {
+            "factual": 4.0,
+            "language": 4.28,
+            "structure": 4.0
+        },
+        "std": {
+            "factual": 1.1,
+            "language": 0.72,
+            "structure": 0.8
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 4.0,
+            "structure": 4.0
+        }
+    },
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:0.6b_rag_top_k_10.json",
+        "score": {
+            "factual": 2.16,
+            "language": 2.6,
+            "structure": 2.2
+        },
+        "std": {
+            "factual": 1.32,
+            "language": 0.89,
+            "structure": 0.75
+        },
+        "median": {
+            "factual": 2.0,
+            "language": 2.0,
+            "structure": 2.0
+        }
+    },
+    {
+        "config": "gpt-oss-120b_evaluated_qwen3:8b_rag_top_k_5.json",
+        "score": {
+            "factual": 4.2,
+            "language": 4.64,
+            "structure": 4.12
+        },
+        "std": {
+            "factual": 1.1,
+            "language": 0.48,
+            "structure": 0.95
+        },
+        "median": {
+            "factual": 5.0,
+            "language": 5.0,
+            "structure": 4.0
+        }
+    }
+]

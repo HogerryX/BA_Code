@@ -1,0 +1,164 @@
+[
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:8b_rag_top_k_5.json",
+        "score": {
+            "factual": 4.56,
+            "language": 4.64,
+            "structure": 4.76
+        },
+        "std": {
+            "factual": 0.64,
+            "language": 0.48,
+            "structure": 0.43
+        },
+        "median": {
+            "factual": 5.0,
+            "language": 5.0,
+            "structure": 5.0
+        }
+    },
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:1.7b_rag_top_k_15.json",
+        "score": {
+            "factual": 2.36,
+            "language": 3.12,
+            "structure": 3.24
+        },
+        "std": {
+            "factual": 1.16,
+            "language": 0.86,
+            "structure": 0.91
+        },
+        "median": {
+            "factual": 2.0,
+            "language": 3.0,
+            "structure": 3.0
+        }
+    },
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:8b_rag_top_k_15.json",
+        "score": {
+            "factual": 3.2,
+            "language": 4.4,
+            "structure": 4.44
+        },
+        "std": {
+            "factual": 1.17,
+            "language": 0.57,
+            "structure": 0.7
+        },
+        "median": {
+            "factual": 3.0,
+            "language": 4.0,
+            "structure": 5.0
+        }
+    },
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:0.6b_rag_top_k_10.json",
+        "score": {
+            "factual": 2.4,
+            "language": 2.28,
+            "structure": 2.44
+        },
+        "std": {
+            "factual": 1.17,
+            "language": 0.66,
+            "structure": 0.8
+        },
+        "median": {
+            "factual": 2.0,
+            "language": 2.0,
+            "structure": 2.0
+        }
+    },
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:0.6b_rag_top_k_5.json",
+        "score": {
+            "factual": 2.4,
+            "language": 2.28,
+            "structure": 2.52
+        },
+        "std": {
+            "factual": 1.2,
+            "language": 0.66,
+            "structure": 0.64
+        },
+        "median": {
+            "factual": 2.0,
+            "language": 2.0,
+            "structure": 2.0
+        }
+    },
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:1.7b_rag_top_k_5.json",
+        "score": {
+            "factual": 3.92,
+            "language": 3.88,
+            "structure": 4.08
+        },
+        "std": {
+            "factual": 0.93,
+            "language": 0.86,
+            "structure": 0.8
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 4.0,
+            "structure": 4.0
+        }
+    },
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:1.7b_rag_top_k_10.json",
+        "score": {
+            "factual": 3.4,
+            "language": 3.6,
+            "structure": 3.84
+        },
+        "std": {
+            "factual": 1.2,
+            "language": 0.75,
+            "structure": 0.92
+        },
+        "median": {
+            "factual": 3.0,
+            "language": 4.0,
+            "structure": 4.0
+        }
+    },
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:8b_rag_top_k_10.json",
+        "score": {
+            "factual": 4.16,
+            "language": 4.68,
+            "structure": 4.64
+        },
+        "std": {
+            "factual": 0.92,
+            "language": 0.47,
+            "structure": 0.56
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 5.0,
+            "structure": 5.0
+        }
+    },
+    {
+        "config": "DeepSeek-R1_evaluated_qwen3:0.6b_rag_top_k_15.json",
+        "score": {
+            "factual": 1.84,
+            "language": 2.16,
+            "structure": 2.28
+        },
+        "std": {
+            "factual": 0.92,
+            "language": 0.73,
+            "structure": 0.66
+        },
+        "median": {
+            "factual": 2.0,
+            "language": 2.0,
+            "structure": 2.0
+        }
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:8b_rag_top_k_10.json",
+        "score": {
+            "factual": 4.72,
+            "language": 4.92,
+            "structure": 4.84
+        },
+        "std": {
+            "factual": 0.72,
+            "language": 0.27,
+            "structure": 0.46
+        },
+        "median": {
+            "factual": 5.0,
+            "language": 5.0,
+            "structure": 5.0
+        }
+    },
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:1.7b_rag_top_k_15.json",
+        "score": {
+            "factual": 3.12,
+            "language": 4.52,
+            "structure": 3.72
+        },
+        "std": {
+            "factual": 1.42,
+            "language": 0.57,
+            "structure": 1.11
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 5.0,
+            "structure": 4.0
+        }
+    },
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:0.6b_rag_top_k_10.json",
+        "score": {
+            "factual": 3.08,
+            "language": 4.0,
+            "structure": 3.04
+        },
+        "std": {
+            "factual": 1.13,
+            "language": 0.49,
+            "structure": 0.72
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 4.0,
+            "structure": 3.0
+        }
+    },
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:8b_rag_top_k_5.json",
+        "score": {
+            "factual": 4.88,
+            "language": 4.96,
+            "structure": 4.96
+        },
+        "std": {
+            "factual": 0.43,
+            "language": 0.2,
+            "structure": 0.2
+        },
+        "median": {
+            "factual": 5.0,
+            "language": 5.0,
+            "structure": 5.0
+        }
+    },
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:8b_rag_top_k_15.json",
+        "score": {
+            "factual": 3.88,
+            "language": 4.8,
+            "structure": 4.4
+        },
+        "std": {
+            "factual": 1.34,
+            "language": 0.4,
+            "structure": 0.75
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 5.0,
+            "structure": 5.0
+        }
+    },
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:1.7b_rag_top_k_10.json",
+        "score": {
+            "factual": 4.12,
+            "language": 4.8,
+            "structure": 4.24
+        },
+        "std": {
+            "factual": 0.91,
+            "language": 0.4,
+            "structure": 0.76
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 5.0,
+            "structure": 4.0
+        }
+    },
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:0.6b_rag_top_k_15.json",
+        "score": {
+            "factual": 2.44,
+            "language": 3.92,
+            "structure": 2.96
+        },
+        "std": {
+            "factual": 1.24,
+            "language": 0.63,
+            "structure": 0.66
+        },
+        "median": {
+            "factual": 2.0,
+            "language": 4.0,
+            "structure": 3.0
+        }
+    },
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:1.7b_rag_top_k_5.json",
+        "score": {
+            "factual": 4.4,
+            "language": 4.88,
+            "structure": 4.64
+        },
+        "std": {
+            "factual": 0.85,
+            "language": 0.32,
+            "structure": 0.56
+        },
+        "median": {
+            "factual": 5.0,
+            "language": 5.0,
+            "structure": 5.0
+        }
+    },
+    {
+        "config": "Llama-3.3-70B-Instruct_evaluated_qwen3:0.6b_rag_top_k_5.json",
+        "score": {
+            "factual": 3.12,
+            "language": 3.8,
+            "structure": 3.04
+        },
+        "std": {
+            "factual": 1.18,
+            "language": 0.57,
+            "structure": 0.82
+        },
+        "median": {
+            "factual": 4.0,
+            "language": 4.0,
+            "structure": 3.0
+        }
+    }
+]
